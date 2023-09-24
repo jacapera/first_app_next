@@ -1,0 +1,5 @@
+.containerAbout{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+}
